@@ -9,9 +9,7 @@ if (!isset($_SESSION['unique_id'])) {
 
 }
 
-?>
 
-<?php 
 
     include_once "header.php";
  ?>
