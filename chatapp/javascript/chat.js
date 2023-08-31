@@ -7,8 +7,6 @@ sendBtn = form.querySelector("button"),
 
 chatBox = document.querySelector(".chat-box");
 
-
-
 form.onsubmit= (e)=>{
 	// Prevents the form from submitting
 	e.preventDefault(); 
