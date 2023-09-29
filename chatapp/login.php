@@ -7,10 +7,7 @@
     }
 
  ?>
-
-
-
-
+<!-- Header include -->
 <?php 
 
     include_once "header.php";
